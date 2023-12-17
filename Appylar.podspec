@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "Appylar"
-  spec.version      = "2.3.1"
+  spec.version      = "2.3.2"
   spec.summary      = "Appylar"
   spec.description  = "Appylar SDK for iOS"
   spec.homepage     = "https://www.appylar.com"
